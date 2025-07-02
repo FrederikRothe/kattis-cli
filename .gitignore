@@ -1,3 +1,7 @@
 **/*.kattisrc
 **/*.venv
 **/__pycache__
+bin/*
+obj/*
+*.sln
+*.csproj
